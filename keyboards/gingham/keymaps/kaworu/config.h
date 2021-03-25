@@ -1,0 +1,2 @@
+#define PERMISSIVE_HOLD
+#undef  ONESHOT_TAP_TOGGLE
