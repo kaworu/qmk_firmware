@@ -52,6 +52,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 };
 
 /* see https://github.com/qmk/qmk_firmware/issues/3963 */
+/*
 bool
 process_record_user(uint16_t keycode, keyrecord_t *record)
 {
@@ -71,3 +72,4 @@ process_record_user(uint16_t keycode, keyrecord_t *record)
 	}
 	return true;
 }
+*/
